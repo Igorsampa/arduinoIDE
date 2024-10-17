@@ -52,6 +52,7 @@ Segue a foto do código que está fazendo o led piscar
  Segue o vídeo do teste do arduíno, nele, podemos perceber o led piscando na velocidade que eu coloquei no código.
 
 <div align="center">
-  <sub>Vídeo</sub><br>
-  <video src="assets/video.mp4" width="80%" controls></video><br>
+  <a href="assets/video.mp4" download>
+    Clique aqui para baixar o vídeo
+  </a><br>
 </div>
